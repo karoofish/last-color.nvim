@@ -1,3 +1,6 @@
+# Forked of raddari/last-color.nvim
+
+
 # 🎨 Last Color
 **Last Color** saves the name of the last (successful) colorscheme change to your filesystem and allows you to recall it whenever you desire. As such, you can automatically set your colorscheme between sessions based on what you last used! See the [usage](#usage) section for an example.
 
